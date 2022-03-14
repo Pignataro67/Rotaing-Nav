@@ -75,6 +75,12 @@ body {
   transition-delay: 0.3s;
 }
 
+nav a{
+  color: #fafafa;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+
 nav a:hover {
   color: #FF7979;
   font-weight: bold;
