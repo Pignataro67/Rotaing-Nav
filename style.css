@@ -75,6 +75,10 @@ body {
   transition-delay: 0.3s;
 }
 
+.content img {
+  max-width: 100%;
+}  
+
 .content {
   max-width: 1000px;
   margin: 50px auto;
