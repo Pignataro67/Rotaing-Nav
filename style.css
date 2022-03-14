@@ -75,6 +75,11 @@ body {
   transition-delay: 0.3s;
 }
 
+nav a:hover {
+  color: #FF7979;
+  font-weight: bold;
+}
+
 .content img {
   max-width: 100%;
 }  
